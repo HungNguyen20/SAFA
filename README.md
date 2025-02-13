@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/932106934.svg)](https://doi.org/10.5281/zenodo.14865136)
+
 ### SAFA: Handling Sparse and Scarce Data in Federated Learning with Accumulative Learning
 
 This paper was accepted to the 2025 IEEE Transactions on Computers!<br>
