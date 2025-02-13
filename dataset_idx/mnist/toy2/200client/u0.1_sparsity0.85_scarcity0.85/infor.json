@@ -1,0 +1,1 @@
+{"u": 0.1, "alpha": 0.04, "beta": 0.13, "sparsity": 0.85, "N": 200, "label_stats": [445, 924, 495, 334, 831, 1215, 681, 424, 558, 381], "client_stats": {"volume_mean": 31.44, "volume_std": 84.2971909377768}}
